@@ -1,5 +1,6 @@
 package com.archu;
 
-public class Newclass {
-
+public class Newclass 
+{
+//new class added
 }
